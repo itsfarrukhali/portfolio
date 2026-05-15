@@ -35,6 +35,9 @@ export const metadata: Metadata = {
     "Software Engineer Portfolio",
     "MERN Stack",
   ],
+  verification: {
+    google: "FTyrPjWAToXgHcel4c6jVQksxLZQoT7ETq_0jbsTta8", // e.g., "abcd1234..."
+  },
   openGraph: {
     title: "Farrukh Ali | Full Stack JavaScript Engineer",
     description: "I turn ambitious ideas into production-ready applications.",
